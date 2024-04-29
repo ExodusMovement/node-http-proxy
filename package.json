@@ -1,11 +1,11 @@
 {
-  "name": "http-proxy",
-  "version": "1.18.1",
+  "name": "@exodus/http-proxy",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/http-party/node-http-proxy.git"
+    "url": "https://github.com/ExodusMovement/node-http-proxy.git"
   },
-  "description": "HTTP proxying for the masses",
+  "description": "Fork of http-proxy that works on Node +v15.x",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "maintainers": [
     "jcrugzz <jcrugzz@gmail.com>"
